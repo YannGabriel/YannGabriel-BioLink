@@ -2,6 +2,7 @@
 //Components
 import Header from "./components/Header/header"; 
 import Portfolio from "./components/Portfolio/portfolio";
+import MediaGallery from "./components/MediaCard/media";
 
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
     <main className='DeveloperContent'> 
       <Header/> 
       <Portfolio/>
+      <MediaGallery/>
     </main>
   );
 }

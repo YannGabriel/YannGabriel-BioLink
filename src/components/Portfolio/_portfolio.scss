@@ -1,0 +1,22 @@
+
+.portfolioTarget{
+  text-decoration: none;
+}
+
+.PortfolioContentCard{
+  background-color: $text-color;
+  width: 85%;
+  height: 100px;
+  position: relative;
+  border-radius: 24px;
+  margin: auto;
+  margin-top: 7.5%;
+
+  .portfolioName{
+    color: $details;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}

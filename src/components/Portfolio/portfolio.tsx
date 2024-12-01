@@ -2,9 +2,11 @@
 
 const Portfolio = () =>{
   return(
-    <div className="PortfolioContentCard">
-      <img src="" alt="Imagem Portfolio" className="PortfolioImage" />
-    </div>
+    <a href="https://yanngabriel.github.io/portfolio" target="_blank" className="portfolioTarget">
+      <div className="PortfolioContentCard">
+        <h1 className="portfolioName poppins-black">Portfólio</h1>
+      </div>
+    </a>
   )
 }
 
