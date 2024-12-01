@@ -16,6 +16,14 @@ body{
   color: $details;
 }
 
+.layout2x2{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 90%
+}
+
 @import './components/Header/header';
 @import './components/Portfolio/portfolio';
 @import './components/MediaCard/media';
+@import './components/LastProject/last';
+@import './components/MusicCard/music';
