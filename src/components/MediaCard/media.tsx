@@ -1,5 +1,5 @@
 import github from "../../images/mediaIcons/github.svg";
-import whatsapp from "../../images/mediaIcons/whatsapp.svg";
+import whatsapp from "../../images/whatsapp.svg";
 import linkedin from "../../images/mediaIcons/Linkedin.png";
 import mail from "../../images/mediaIcons/mail.svg";
 
